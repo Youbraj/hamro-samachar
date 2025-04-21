@@ -71,7 +71,7 @@ Follow these steps to run the News App on your local machine:
 2. **Navigate to the Project Directory:**
 
     ```bash
-    cd react-news-app
+    cd hamro-samachar
 
 3. **Install Dependencies:**
 
