@@ -1,4 +1,7 @@
 # Hamro Samachar
+
+![](https://github.com/Youbraj/hamro-samachar/blob/7260ae31038871d793063c6940df9ac5fee54ad8/public/app-screenshot.png)
+
 Welcome to the Hamro Samachar — A News App! This application leverages the power of the NewsAPI to deliver the latest news articles from across the globe. With its intuitive interface, users can explore news organized by categories or search for specific topics that interest them.
 
 ---
