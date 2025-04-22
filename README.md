@@ -61,7 +61,7 @@ This app is powered by modern web development technologies:
 
 ## Usage
 
-Follow these steps to run the News App on your local machine:
+Follow these steps to run the Hamro Samachar app on your local machine:
 
 1. **Clone the Repository:**
 
@@ -77,6 +77,16 @@ Follow these steps to run the News App on your local machine:
 
    ```bash
     npm install
+
+4. **Set up NewsAPI key:**
+   - Visit [NewsAPI](https://newsapi.org/) and create an account if you don't already have one.
+   - Obtain your API key from the NewsAPI dashboard.
+   - Create a `.env.local` file in the root of your project and add the following line:
+     ```
+     REACT_APP_NEWS_API_KEY="your_api_key_here"
+     ```
+   - Replace `your_api_key_here` with your actual NewsAPI key.
+
 
 4. **Start the Development Server:**
 
@@ -95,3 +105,6 @@ Contributions are highly appreciated! If you encounter any bugs or have ideas fo
 
 Your feedback and contributions will help make this app even better!
 
+## Acknowledgements
+
+- This app utilizes the NewsAPI for fetching news articles. Visit their website for more information: [NewsAPI](https://newsapi.org/)
