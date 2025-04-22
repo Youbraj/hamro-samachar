@@ -91,12 +91,12 @@ Follow these steps to run the Hamro Samachar app on your local machine:
    - Replace `your_api_key_here` with your actual NewsAPI key.
 
 
-4. **Start the Development Server:**
+5. **Start the Development Server:**
 
    ```bash
     npm start
 
-5. **Access the App:** Open your web browser and go to http://localhost:3000.
+6. **Access the App:** Open your web browser and go to http://localhost:3000.
 
 ## Contributing
 
